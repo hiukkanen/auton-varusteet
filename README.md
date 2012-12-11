@@ -13,5 +13,5 @@ Lista varusteista, jotka tulisi autossa ehdottomasti olla
 
 Hyvät muut varusteet
 
-* Vebasto
+* Webasto
 * Vetokoukku
