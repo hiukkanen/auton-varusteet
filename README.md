@@ -1,7 +1,7 @@
 auton-varusteet
 ===============
 
-Lista varusteista, jotka tulisi autossa ehdottomasti olla
+### Lista varusteista, jotka tulisi autossa ehdottomasti olla
 
 * Sähkötoimiset sivupeilit
 * Sähköikkunat
@@ -14,7 +14,7 @@ Lista varusteista, jotka tulisi autossa ehdottomasti olla
 * Monitoimiohjauspyörä
 * Tavaratilan kassinpidikkeet
 
-Hyvät muut varusteet
+### Hyvät muut varusteet
 
 * Webasto
 * Vetokoukku
