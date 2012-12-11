@@ -7,11 +7,20 @@ Lista varusteista, jotka tulisi autossa ehdottomasti olla
 * Sähköikkunat
 * Sivupeilien lämmitys
 * Vakionopeudensäädin
-* Ilmastointi
+* Automaattinen ilmastointi
+* Ohjaustehostin
 * Sisätilanpistoke
 * Kauko-ohjattava keskuslukitus
+* Monitoimiohjauspyörä
+* Tavaratilan kassinpidikkeet
 
 Hyvät muut varusteet
 
 * Webasto
 * Vetokoukku
+* Neli- tai takaveto
+* Kauko-ohjattava takaluukku
+* Sadetunnistin
+* Navigaattori
+* Muistipenkit
+* Kattoluukku
