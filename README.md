@@ -9,7 +9,7 @@ Lista varusteista, jotka tulisi autossa ehdottomasti olla
 * Vakionopeudensäädin
 * Ilmastointi
 * Sisätilanpistoke
-* Kauko-ohjattaava keskuslukitus
+* Kauko-ohjattava keskuslukitus
 
 Hyvät muut varusteet
 
