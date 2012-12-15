@@ -24,3 +24,5 @@ auton-varusteet
 * Navigaattori
 * Muistipenkit
 * Kattoluukku
+* Parkkitutka
+* Peruutuskamera
